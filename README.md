@@ -2,6 +2,10 @@
 
 # Caderno Temático no NotebookLM: Economia Comportamental para Analistas de Dados
 
+## Visão Geral do NotebookLM
+
+![Visão Geral](images/notebooklm-geral.png)
+
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido como parte do desafio prático do Bradesco - GenAI & Dados em parceria com a DIO, com o objetivo de colocar em prática o conhecimento adquirido e explorar o NotebookLM como ferramenta de aprendizagem ativa.
@@ -24,6 +28,10 @@ Durante o desenvolvimento do projeto foram realizadas atividades de curadoria de
 ---
 
 # Curadoria de Fontes
+
+## Fontes Utilizadas
+
+![Fontes Utilizadas](images/fontes-utilizadas.png)
 
 As seguintes fontes foram utilizadas como base para o caderno temático no NotebookLM:
 
@@ -267,6 +275,9 @@ Crie um estudo de caso aplicando este conceito em um contexto empresarial.
 Como eu explicaria este conceito para um recrutador da área de Dados?
 
 ---
+## Material Gerado
+
+![Material Gerado](images/material-gerado.png)
 
 # Conclusão
 
