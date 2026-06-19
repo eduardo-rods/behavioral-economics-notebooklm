@@ -281,6 +281,11 @@ Como eu explicaria este conceito para um recrutador da área de Dados?
 
 ![Material Gerado 2 (Imagem extraida da apresentação gerada pelo NotebookLM)](images/material-gerado-2.png)
 
+
+ **Apresentação em PowerPoint**
+
+[Baixar apresentação](docs/Humanizing_Data.pptx)
+
 # Conclusão
 
 O NotebookLM demonstrou ser uma ferramenta efiente para organização do conhecimento, curadoria de informações e construção de materiais de estudo. Através deste caderno temático foi possível aprofundar o entendimento sobre Economia Comportamental e explorar formas de relacionar seus conceitos com a interpretação de comportamentos observados em análises de dados.
