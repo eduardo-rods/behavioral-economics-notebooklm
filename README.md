@@ -22,7 +22,6 @@ Durante o desenvolvimento do projeto foram realizadas atividades de curadoria de
 - GitHub
 - Markdown
 - Economia Comportamental
-- Análise de Dados
 ---
 
 # Objetivos do Caderno Temático
