@@ -275,12 +275,11 @@ Crie um estudo de caso aplicando este conceito em um contexto empresarial.
 Como eu explicaria este conceito para um recrutador da área de Dados?
 
 ---
-## Material Gerado
+## Materiais Gerados
 
-![Material Gerado](images/material-gerado.png)
+![Material Gerado (Imagem extraida da apresentação gerada pelo NotebookLM)](images/material-gerado.png)
 
-## Material Gerado-2
-![Material Gerado 2](images/material-gerado-2.png)
+![Material Gerado 2 (Imagem extraida da apresentação gerada pelo NotebookLM)](images/material-gerado-2.png)
 
 # Conclusão
 
