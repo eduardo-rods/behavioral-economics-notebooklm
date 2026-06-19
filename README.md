@@ -1,4 +1,4 @@
-# behavioral-economics-notebooklm
+
 
 # Caderno Temático no NotebookLM: Economia Comportamental para Analistas de Dados
 
