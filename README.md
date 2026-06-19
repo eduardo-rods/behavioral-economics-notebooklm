@@ -275,7 +275,7 @@ Crie um estudo de caso aplicando este conceito em um contexto empresarial.
 Como eu explicaria este conceito para um recrutador da área de Dados?
 
 ---
-# Materiais Gerados
+# Materiais Gerados:
 
 ## Resumo em Áudio (Podcast)
 
@@ -283,7 +283,7 @@ Como eu explicaria este conceito para um recrutador da área de Dados?
 
 [Ouvir ou baixar o áudio](https://drive.google.com/file/d/1ASVTe67rxHq_VVt8tUpiVmlkb96etm5Q/view?usp=sharing) 
 
-## Infográfico: Princípios da Economia Comportamental
+## Infográfico - Princípios da Economia Comportamental
 
 ![Material Gerado 0 (Infografico gerado pelo NotebookLM)](images/Princípios_da_Economia_Comportamental.png) 
 
