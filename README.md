@@ -15,16 +15,21 @@ Para a construção do caderno temático, foi escolhido o tema **Economia Compor
 Durante o desenvolvimento do projeto foram realizadas atividades de curadoria de fontes, engenharia de prompts e consolidação do conhecimento em um material estruturado para estudos e futuras revisões.
 
 ---
-## Ferramentas Utilizadas
+## Ferramentas e Tecnologias Utilizadas
 
 - NotebookLM
 - IA Generativa
 - GitHub
 - Markdown
+---
+## Tema Estudado
+
 - Economia Comportamental
+- Tomada de Decisão
+- Vieses Cognitivos
 ---
 
-# Objetivos do Caderno Temático
+## Objetivos do Caderno Temático
 
 * Explorar o NotebookLM como ferramenta de estudo e organização do conhecimento.
 * Compreender os fundamentos da Economia Comportamental.
@@ -35,22 +40,22 @@ Durante o desenvolvimento do projeto foram realizadas atividades de curadoria de
 
 ---
 
-# Curadoria de Fontes
+## Curadoria de Fontes
 
-## Fontes Utilizadas
+**Fontes Utilizadas**
 
 ![Fontes Utilizadas](images/fontes-utilizadas.png)
 
 As seguintes fontes foram utilizadas como base para o caderno temático no NotebookLM:
 
-## Livros
+### Livros
 
 1. Rápido e Devagar — Daniel Kahneman
 2. Nudge — Richard Thaler e Cass Sunstein
 3. Possivelmente Irracional — Dan Ariely
 4. Misbehaving — Richard Thaler
 
-## Vídeo
+### Vídeo
 
 5. Aula 25: Economia Comportamental — MIT OpenCourseWare
 
@@ -60,9 +65,9 @@ As fontes foram escolhidas por apresentarem diferentes perspectivas da Economia 
 
 ---
 
-# Engenharia de Prompts
+## Engenharia de Prompts
 
-## Prompt Principal
+### Prompt Principal
 
 O principal prompt utilizado no NotebookLM foi:
 
@@ -110,9 +115,9 @@ Crie exemplos de hipóteses comportamentais que podem ser investigadas a partir 
 
 ---
 
-# Cicatrizes e Aprendizados
+## Cicatrizes e Aprendizados
 
-## Desafio 1
+### Desafio 1
 
 O Objetivo deve ser claro e acompanhar o contexto
 
@@ -122,7 +127,7 @@ Foi necessario um refinamento no contexto para aplicação em Análise de Dados 
 
 ---
 
-## Desafio 2
+### Desafio 2
 
 Os conceitos eram apresentados sem conexão clara com cenários reais.
 
@@ -132,7 +137,7 @@ Foram solicitados estudos de caso envolvendo E-commerce, People Analytics, Educa
 
 ---
 
-## Desafio 3
+### Desafio 3
 
 As respostas descreviam os conceitos, mas não mostravam como utilizá-los durante uma análise.
 
@@ -142,7 +147,7 @@ Foi solicitado que cada conceito incluísse exemplos aplicados à interpretaçã
 
 ---
 
-# Miniguia de Estudo
+## Miniguia de Estudo
 
 ## O que é Economia Comportamental?
 
@@ -245,7 +250,7 @@ Falta de incentivo imediato ou excesso de complexidade.
 
 ---
 
-# Glossário
+## Glossário
 
 | Termo                   | Definição                                        |
 | ----------------------- | ------------------------------------------------ |
@@ -260,7 +265,7 @@ Falta de incentivo imediato ou excesso de complexidade.
 
 ---
 
-# Biblioteca de Prompts Reutilizáveis:
+## Biblioteca de Prompts Reutilizáveis:
 
 ## Revisão de Conteúdo
 
@@ -283,7 +288,7 @@ Crie um estudo de caso aplicando este conceito em um contexto empresarial.
 Como eu explicaria este conceito para um recrutador da área de Dados?
 
 ---
-# Materiais Gerados:
+## Materiais Gerados:
 
 ## Resumo em Áudio (Podcast)
 
@@ -307,7 +312,7 @@ Como eu explicaria este conceito para um recrutador da área de Dados?
 
 [Baixar apresentação](docs/Humanizing_Data.pptx)
 
-# Conclusão
+## Conclusão
 
 O NotebookLM demonstrou ser uma ferramenta efiente para organização do conhecimento, curadoria de informações e construção de materiais de estudo. Através deste caderno temático foi possível aprofundar o entendimento sobre Economia Comportamental e explorar formas de relacionar seus conceitos com a interpretação de comportamentos observados em análises de dados.
 
