@@ -57,8 +57,6 @@ Durante o desenvolvimento do projeto foram realizadas atividades de curadoria de
 
 **Fontes Utilizadas**
 
-![Fontes Utilizadas](images/fontes-utilizadas.png)
-
 As seguintes fontes foram utilizadas como base para o caderno temático no NotebookLM:
 
 ### Livros
@@ -75,6 +73,8 @@ As seguintes fontes foram utilizadas como base para o caderno temático no Noteb
 ### Critério de Seleção
 
 As fontes foram escolhidas por apresentarem diferentes perspectivas da Economia Comportamental, incluindo fundamentos teóricos, pesquisas experimentais, aplicações práticas e a evolução histórica da área.
+
+![Fontes Utilizadas](images/fontes-utilizadas.png)
 
 ---
 
