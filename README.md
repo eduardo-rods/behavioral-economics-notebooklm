@@ -281,6 +281,9 @@ Como eu explicaria este conceito para um recrutador da área de Dados?
 
 ![Material Gerado 0 (Infografico gerado pelo NotebookLM)](images/Princípios_da_Economia_Comportamental.png) 
 
+
+**Slides da Apresentação Gerada (Disponível a baixo para download)**
+
 ![Material Gerado (Imagem extraida da apresentação gerada pelo NotebookLM)](images/material-gerado.png)
 
 ![Material Gerado 2 (Imagem extraida da apresentação gerada pelo NotebookLM)](images/material-gerado-2.png)
