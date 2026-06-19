@@ -10,10 +10,23 @@
 
 Este projeto foi desenvolvido como parte do desafio prático do Bradesco - GenAI & Dados em parceria com a DIO, com o objetivo de colocar em prática o conhecimento adquirido e explorar o NotebookLM como ferramenta de aprendizagem ativa.
 
-Para a construção do caderno temático, foi escolhido o tema **Economia Comportamental aplicada à Análise de Dados**, buscando compreender como fatores psicológicos e comportamentais podem auxiliar na interpretação de padrões observados em analises de dados.
+Para a construção do caderno temático, foi escolhido o tema **Economia Comportamental aplicada à Análise de Dados**, buscando compreender como fatores psicológicos e comportamentais podem auxiliar na interpretação de padrões observados em análises de dados.
 
 Durante o desenvolvimento do projeto foram realizadas atividades de curadoria de fontes, engenharia de prompts e consolidação do conhecimento em um material estruturado para estudos e futuras revisões.
+---
+## Sumário
 
+- [Visão Geral do NotebookLM](#visão-geral-do-notebooklm)
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Objetivos do Caderno Temático](#objetivos-do-caderno-temático)
+- [Curadoria de Fontes](#curadoria-de-fontes)
+- [Engenharia de Prompts](#engenharia-de-prompts)
+- [Cicatrizes e Aprendizados](#cicatrizes-e-aprendizados)
+- [Miniguia de Estudo](#miniguia-de-estudo)
+- [Glossário](#glossário)
+- [Biblioteca de Prompts Reutilizáveis](#biblioteca-de-prompts-reutilizáveis)
+- [Materiais Gerados](#materiais-gerados)
+- [Conclusão](#conclusão)
 ---
 ## Ferramentas e Tecnologias Utilizadas
 
@@ -123,7 +136,7 @@ O Objetivo deve ser claro e acompanhar o contexto
 
 ### Solução
 
-Foi necessario um refinamento no contexto para aplicação em Análise de Dados para tornar o conteúdo mais aplicavél.
+Foi necessário um refinamento no contexto para aplicação em Análise de Dados para tornar o conteúdo mais aplicável.
 
 ---
 
@@ -314,7 +327,8 @@ Como eu explicaria este conceito para um recrutador da área de Dados?
 
 ## Conclusão
 
-O NotebookLM demonstrou ser uma ferramenta efiente para organização do conhecimento, curadoria de informações e construção de materiais de estudo. Através deste caderno temático foi possível aprofundar o entendimento sobre Economia Comportamental e explorar formas de relacionar seus conceitos com a interpretação de comportamentos observados em análises de dados.
+O NotebookLM demonstrou ser uma ferramenta eficiente para organização do conhecimento, curadoria de informações e construção de materiais de estudo. Através deste caderno temático foi possível aprofundar o entendimento sobre Economia Comportamental e explorar formas de relacionar seus conceitos com a interpretação de comportamentos observados em análises de dados.
+Além do aprendizado sobre Economia Comportamental, este projeto reforçou a importância de compreender os comportamentos humanos por trás dos dados, permitindo a construção de hipóteses mais consistentes e insights mais estratégicos durante o processo analítico.
 
 
 
