@@ -277,6 +277,12 @@ Como eu explicaria este conceito para um recrutador da área de Dados?
 ---
 ## Materiais Gerados
 
+## Resumo em Áudio
+
+Áudio gerado pelo NotebookLM a partir das fontes utilizadas neste estudo.
+
+ [Ouvir ou baixar o áudio](https://drive.google.com/file/d/1ASVTe67rxHq_VVt8tUpiVmlkb96etm5Q/view?usp=sharing) 
+
 **Infográfico: Princípios da Economia Comportamental**
 
 ![Material Gerado 0 (Infografico gerado pelo NotebookLM)](images/Princípios_da_Economia_Comportamental.png) 
