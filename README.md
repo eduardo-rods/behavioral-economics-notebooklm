@@ -15,6 +15,15 @@ Para a construção do caderno temático, foi escolhido o tema **Economia Compor
 Durante o desenvolvimento do projeto foram realizadas atividades de curadoria de fontes, engenharia de prompts e consolidação do conhecimento em um material estruturado para estudos e futuras revisões.
 
 ---
+## Ferramentas Utilizadas
+
+- NotebookLM
+- IA Generativa
+- GitHub
+- Markdown
+- Economia Comportamental
+- Análise de Dados
+---
 
 # Objetivos do Caderno Temático
 
