@@ -275,27 +275,27 @@ Crie um estudo de caso aplicando este conceito em um contexto empresarial.
 Como eu explicaria este conceito para um recrutador da área de Dados?
 
 ---
-## Materiais Gerados
+# Materiais Gerados
 
-**Resumo em Áudio**
+## Resumo em Áudio (Podcast)
 
 Áudio gerado pelo NotebookLM a partir das fontes utilizadas neste estudo.
 
 [Ouvir ou baixar o áudio](https://drive.google.com/file/d/1ASVTe67rxHq_VVt8tUpiVmlkb96etm5Q/view?usp=sharing) 
 
-**Infográfico: Princípios da Economia Comportamental**
+## Infográfico: Princípios da Economia Comportamental
 
 ![Material Gerado 0 (Infografico gerado pelo NotebookLM)](images/Princípios_da_Economia_Comportamental.png) 
 
 
-**Slides da Apresentação Gerada (Disponível abaixo para download)**
+## Slides da Apresentação Gerada (Disponível abaixo para download)
 
 ![Material Gerado (Imagem extraida da apresentação gerada pelo NotebookLM)](images/material-gerado.png)
 
 ![Material Gerado 2 (Imagem extraida da apresentação gerada pelo NotebookLM)](images/material-gerado-2.png)
 
 
- **Apresentação em PowerPoint**
+ ## Apresentação em PowerPoint 
 
 [Baixar apresentação](docs/Humanizing_Data.pptx)
 
